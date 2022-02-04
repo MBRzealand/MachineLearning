@@ -5,6 +5,9 @@ A repository for the various machinelearning assignments during the course.
 <a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Python%20Basic%20No%201.ipynb">Python Basic No. 1</a>
 
 
+<a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Python%20Basic%20No%202.ipynb">Python Basic No. 2</a>
+
+
 <a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Panda%20Introduction.ipynb">Panda Introduction</a>
 
 
