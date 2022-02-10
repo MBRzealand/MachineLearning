@@ -12,3 +12,6 @@ A repository for the various machinelearning assignments during the course.
 
 
 <a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Importing%20and%20working%20with%20datasets.ipynb?flush_cache=false">Importing and working with datasets</a>
+
+
+<a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Linear%20Regression.ipynb?flush_cache=false">Linear Regression</a>
