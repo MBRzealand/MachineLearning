@@ -24,4 +24,5 @@ A repository for the various machinelearning assignments during the course.
 
 <a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Linear%20Regression%20Standard.ipynb?flush_cache=false">Linear Regression Standard</a>
 
+<a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Regression%20Performance.ipynb?flush_cache=false">Regression Performance</a>
 </details>
