@@ -26,3 +26,8 @@ A repository for the various machinelearning assignments during the course.
 
 <a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Regression%20Performance.ipynb?flush_cache=false">Regression Performance</a>
 </details>
+
+<summary>Week 3</summary>
+
+<a href = "https://nbviewer.org/github/MBRzealand/MachineLearning/blob/main/Assignments/Classification%20Chapter%203%20Questions.ipynb?flush_cache=false">Classification Chapter 3 Questions</a>
+</details>
